@@ -1,0 +1,16 @@
+Write one funny line of at most 200 characters for the make.fun bounty
+"One Line, One Laugh" (u-plucky-finch-20-one-line-one-laugh-0ffe66ea).
+
+The line must be funny on its own, with no picture or setup: the laugh
+arrives fast, the angle is fresh, the wording is tight, and it still amuses
+on a second read. The judge compares entries two at a time and picks the
+funnier one, so the line needs a twist that lands inside the line itself.
+
+Idea: an alarming setup with a disappointingly wholesome payoff — a banking
+app flags the account for "unusual activity", and the suspicious act turns
+out to be buying vegetables. The gap between fraud alert and groceries is
+the whole joke: the reader expects crime and gets a salad.
+
+Write the line as a deterministic Node program (main.ts) that validates it
+against the gate (1 to 200 characters, not only whitespace, one line) and
+writes it to /output/entry.txt, byte-identical on every run.
